@@ -1,0 +1,34 @@
+
+
+-- Come usa GIT --
+
+1. Da terminale chimare il comando principale "git --version"
+
+2. Scarica il progetto da GitHub.com da terminale lanciare
+   
+   git clone https://github.com/ProgettoG55/Corso-PHP/
+   
+3. Individuare la cartella del progetto
+
+4. Entrare nella cartella del progetto e poi digitare
+
+   git pull
+
+5. Conservare le modifice effettuate con 
+   
+   git config user.email miaemail@miaemail.org
+
+   git config user.name mionome
+
+   git commit -m "il mio lavoro e completo"
+
+   git push 
+
+   git status
+
+
+
+
+ 
+
+
