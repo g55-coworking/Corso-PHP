@@ -20,6 +20,8 @@
 
    git config user.name mionome
 
+   git checkout master
+
    git commit -m "il mio lavoro e completo"
 
    git push 
